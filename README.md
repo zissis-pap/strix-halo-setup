@@ -1,7 +1,7 @@
 # Strix Halo Setup
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![AMD Ryzen AI Max](https://img.shields.io/badge/AMD_Ryzen_AI_Max-ED1C24?logo=amd&logoColor=white)](https://www.amd.com/en/products/ryzen-ai.html)
+[![AMD Ryzen AI Max](https://img.shields.io/badge/AMD_Ryzen_AI_Max-ED1C24?logo=amd&logoColor=white)](https://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html)
 [![CachyOS](https://img.shields.io/badge/CachyOS-007ACC?logo=cachyos&logoColor=white)](https://cachyos.org/)
 [![Bash](https://img.shields.io/badge/Bash-4.4+-blue.svg)](https://www.gnu.org/software/bash/)
 [![Limine](https://img.shields.io/badge/Limine-FF5722?logo=github&logoColor=white)](https://github.com/limine-bootloader/limine)
